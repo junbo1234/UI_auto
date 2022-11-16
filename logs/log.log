@@ -1,0 +1,181 @@
+2022-11-01 17:16:21,630 logToHandle.py INFO logToHandle 信息级别
+2022-11-01 17:20:23,956 base_page.py INFO base_page 初始化driver【】
+2022-11-01 17:20:23,981 base_page.py INFO base_page 正在打开网页
+2022-11-01 17:20:27,704 base_page.py INFO base_page 正在输入
+2022-11-01 17:20:27,705 base_page.py INFO base_page 正在元素定位
+2022-11-01 17:20:27,836 base_page.py INFO base_page 正在输入
+2022-11-01 17:20:27,836 base_page.py INFO base_page 正在元素定位
+2022-11-01 17:20:27,902 base_page.py INFO base_page 正在点击按钮
+2022-11-01 17:20:27,902 base_page.py INFO base_page 正在元素定位
+2022-11-01 17:28:35,167 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="cadf8c86562f7f3104afc8c58453bb7c")>
+2022-11-01 17:28:35,175 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-01 17:28:38,691 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-01 17:28:38,691 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-01 17:28:38,785 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-01 17:28:38,785 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-01 17:28:38,840 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-01 17:28:38,840 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-01 17:53:04,863 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="95ad7ea89276a19378a46180566a22b0")>
+2022-11-01 17:53:04,870 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-01 17:53:08,377 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-01 17:53:08,377 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-01 17:53:08,501 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-01 17:53:08,501 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-01 17:53:08,558 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-01 17:53:08,558 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-01 17:54:54,500 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="431c25681a49d5a1e6ae4ffd6d253783")>
+2022-11-01 17:54:54,520 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="431c25681a49d5a1e6ae4ffd6d253783")>
+2022-11-01 17:54:54,542 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-01 17:54:58,025 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-01 17:54:58,025 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-01 17:54:58,139 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-01 17:54:58,139 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-01 17:54:58,192 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-01 17:54:58,193 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-01 17:55:03,247 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-01 17:55:03,567 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-01 17:55:03,577 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-01 17:55:03,652 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-01 17:55:03,652 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-01 17:55:03,701 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-01 17:55:03,701 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-01 17:55:08,770 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php
+2022-11-01 17:55:09,261 base_page.py INFO base_page 正在输入('name', 'wd')
+2022-11-01 17:55:09,261 base_page.py INFO base_page 正在元素定位('name', 'wd')
+2022-11-01 17:55:09,332 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-01 17:55:09,333 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-01 17:55:12,696 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php
+2022-11-01 17:55:12,930 base_page.py INFO base_page 正在输入('name', 'wd')
+2022-11-01 17:55:12,931 base_page.py INFO base_page 正在元素定位('name', 'wd')
+2022-11-01 17:55:13,010 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-01 17:55:13,011 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-04 13:34:58,487 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="03498633c174bea3a8ce9740c6eff79e")>
+2022-11-04 13:34:58,507 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="03498633c174bea3a8ce9740c6eff79e")>
+2022-11-04 13:34:58,547 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-04 13:35:01,932 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-04 13:35:01,933 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-04 13:35:02,054 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-04 13:35:02,054 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-04 13:35:02,113 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-04 13:35:02,113 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-04 13:35:07,175 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-04 13:35:07,712 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-04 13:35:07,713 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-04 13:35:07,884 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-04 13:35:07,885 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-04 13:35:07,955 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-04 13:35:07,956 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-04 13:35:13,052 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php
+2022-11-04 13:35:13,534 base_page.py INFO base_page 正在输入('name', 'wd')
+2022-11-04 13:35:13,535 base_page.py INFO base_page 正在元素定位('name', 'wd')
+2022-11-04 13:35:13,660 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-04 13:35:13,660 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-04 13:35:17,093 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php
+2022-11-04 13:35:17,425 base_page.py INFO base_page 正在输入('name', 'wd')
+2022-11-04 13:35:17,425 base_page.py INFO base_page 正在元素定位('name', 'wd')
+2022-11-04 13:35:17,553 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-04 13:35:17,569 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-04 13:43:41,629 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="b3e2e705c0ae5c23aa82092b4acb525e")>
+2022-11-04 13:43:41,649 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="b3e2e705c0ae5c23aa82092b4acb525e")>
+2022-11-04 13:43:41,673 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-04 13:43:45,291 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-04 13:43:45,291 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-04 13:43:45,447 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-04 13:43:45,447 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-04 13:43:45,510 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-04 13:43:45,510 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-04 13:43:50,577 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-04 13:43:51,125 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-04 13:43:51,138 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-04 13:43:51,290 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-04 13:43:51,307 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-04 13:43:51,371 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-04 13:43:51,371 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-04 13:43:56,505 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php
+2022-11-04 13:43:56,960 base_page.py INFO base_page 正在输入('name', 'wd')
+2022-11-04 13:43:56,960 base_page.py INFO base_page 正在元素定位('name', 'wd')
+2022-11-04 13:43:57,020 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-04 13:43:57,020 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-04 13:44:00,341 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php
+2022-11-04 13:44:00,623 base_page.py INFO base_page 正在输入('name', 'wd')
+2022-11-04 13:44:00,623 base_page.py INFO base_page 正在元素定位('name', 'wd')
+2022-11-04 13:44:00,697 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-04 13:44:00,697 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-16 17:16:46,061 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="3ee7b1344ea0a4c166fdf2fcd8be878d")>
+2022-11-16 17:16:46,093 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="3ee7b1344ea0a4c166fdf2fcd8be878d")>
+2022-11-16 17:16:46,098 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-16 17:16:56,079 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-16 17:16:56,079 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-16 17:16:56,299 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-16 17:16:56,299 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-16 17:16:56,359 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-16 17:16:56,373 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-16 17:17:01,439 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-16 17:17:03,725 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-16 17:17:03,725 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-16 17:17:03,863 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-16 17:17:03,863 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-16 17:17:03,914 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-16 17:17:03,914 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-16 17:17:08,994 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php
+2022-11-16 17:17:09,708 base_page.py INFO base_page 正在输入('name', 'wd')
+2022-11-16 17:17:09,708 base_page.py INFO base_page 正在元素定位('name', 'wd')
+2022-11-16 17:17:09,840 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-16 17:17:09,840 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-16 17:17:13,251 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php
+2022-11-16 17:17:13,512 base_page.py INFO base_page 正在输入('name', 'wd')
+2022-11-16 17:17:13,512 base_page.py INFO base_page 正在元素定位('name', 'wd')
+2022-11-16 17:17:13,691 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-16 17:17:13,691 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-16 17:26:01,562 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="7eb9fd40a0af4153d12c0c4410959266")>
+2022-11-16 17:26:01,581 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="7eb9fd40a0af4153d12c0c4410959266")>
+2022-11-16 17:26:01,584 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-16 17:26:05,054 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-16 17:26:05,054 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-16 17:26:05,250 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-16 17:26:05,250 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-16 17:26:05,309 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-16 17:26:05,309 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-16 17:26:10,400 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-16 17:26:10,560 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-16 17:26:10,561 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-16 17:26:10,709 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-16 17:26:10,709 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-16 17:26:10,758 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-16 17:26:10,758 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-16 17:26:15,832 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php
+2022-11-16 17:26:16,247 base_page.py INFO base_page 正在输入('name', 'wd')
+2022-11-16 17:26:16,248 base_page.py INFO base_page 正在元素定位('name', 'wd')
+2022-11-16 17:26:16,407 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-16 17:26:16,407 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-16 17:26:19,810 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php
+2022-11-16 17:26:20,049 base_page.py INFO base_page 正在输入('name', 'wd')
+2022-11-16 17:26:20,049 base_page.py INFO base_page 正在元素定位('name', 'wd')
+2022-11-16 17:26:20,214 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-16 17:26:20,214 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-16 17:26:25,755 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="d53ccf8899b93402ad205f0a61f44cee")>
+2022-11-16 17:26:25,756 base_page.py INFO base_page 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="d53ccf8899b93402ad205f0a61f44cee")>
+2022-11-16 17:26:25,776 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-16 17:26:29,614 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-16 17:26:29,614 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-16 17:26:29,784 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-16 17:26:29,784 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-16 17:26:29,845 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-16 17:26:29,846 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-16 17:26:34,905 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+2022-11-16 17:26:35,145 base_page.py INFO base_page 正在输入('name', 'accounts')
+2022-11-16 17:26:35,146 base_page.py INFO base_page 正在元素定位('name', 'accounts')
+2022-11-16 17:26:35,273 base_page.py INFO base_page 正在输入('name', 'pwd')
+2022-11-16 17:26:35,273 base_page.py INFO base_page 正在元素定位('name', 'pwd')
+2022-11-16 17:26:35,321 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-16 17:26:35,321 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+2022-11-16 17:26:40,399 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php
+2022-11-16 17:26:41,083 base_page.py INFO base_page 正在输入('name', 'wd')
+2022-11-16 17:26:41,083 base_page.py INFO base_page 正在元素定位('name', 'wd')
+2022-11-16 17:26:41,209 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-16 17:26:41,209 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-16 17:26:44,673 base_page.py INFO base_page 正在打开网页http://39.98.138.157/shopxo/index.php
+2022-11-16 17:26:45,130 base_page.py INFO base_page 正在输入('name', 'wd')
+2022-11-16 17:26:45,130 base_page.py INFO base_page 正在元素定位('name', 'wd')
+2022-11-16 17:26:45,265 base_page.py INFO base_page 正在点击按钮('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')
+2022-11-16 17:26:45,265 base_page.py INFO base_page 正在元素定位('xpath', '/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]/input[2]')

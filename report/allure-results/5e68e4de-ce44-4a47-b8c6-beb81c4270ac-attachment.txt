@@ -1,0 +1,7 @@
+INFO     root:base_page.py:18 正在打开网页http://39.98.138.157/shopxo/index.php?s=/index/user/logininfo.html
+INFO     root:base_page.py:27 正在输入('name', 'accounts')
+INFO     root:base_page.py:23 正在元素定位('name', 'accounts')
+INFO     root:base_page.py:27 正在输入('name', 'pwd')
+INFO     root:base_page.py:23 正在元素定位('name', 'pwd')
+INFO     root:base_page.py:31 正在点击按钮('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
+INFO     root:base_page.py:23 正在元素定位('xpath', '/html[1]/body[1]/div[4]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]')
